@@ -4,6 +4,9 @@
 # Base - Genral & Typography
 
 ----------------------------------------------------------------------------- */
+
+
+
 html {
   font-size: 14px;
   font-weight: 400;
@@ -473,7 +476,7 @@ a.boxed-btn, a.bordered-btn, a.cart-btn {
 }
 
 .breadcrumb-text p {
-  color: #F28123;
+  color: #E41A28;
   font-weight: 700;
   text-transform: uppercase;
   letter-spacing: 7px;
@@ -620,7 +623,7 @@ ul.sub-menu li:last-child {
 }
 
 .mean-bar a.meanmenu-reveal {
-  background-color: #F28123;
+  background-color: transparent;
 }
 
 .main-menu-wrap {
@@ -628,11 +631,11 @@ ul.sub-menu li:last-child {
 }
 
 .mean-container a.meanmenu-reveal {
-  color: #051922;
+  color: white;
 }
 
 .mean-container a.meanmenu-reveal span {
-  background-color: #051922;
+  background-color: white;
 }
 
 .mean-container .mean-nav ul li a {
@@ -1450,8 +1453,8 @@ html, body {
 }
 
 input[type="submit"] {
-  background-color: #F28123;
-  color: #051922;
+  background-color: #E41A28;
+  color: white;
   font-weight: 700;
   text-transform: uppercase;
   font-size: 15px;
@@ -2153,7 +2156,7 @@ a.video-play-btn {
 }
 
 .feature-bg:after {
-  background-image: url(../img/feature-bg.jpg);
+  background-image: url(../img/products/product-img-6.jpg);
   position: absolute;
   right: 0;
   top: 0;
@@ -2163,21 +2166,21 @@ a.video-play-btn {
   background-size: cover;
   background-position: center;
   border-top-left-radius: 5px;
-  -webkit-box-shadow: 0 0 20px #cacaca;
-  box-shadow: 0 0 20px #cacaca;
+  /* -webkit-box-shadow: 0 0 20px #cacaca;
+  box-shadow: 0 0 20px #cacaca; */
   border-bottom-left-radius: 5px;
 }
 
 .team-bg-1 {
-  background-image: url(../img/team/team-1.jpg);
+  background-image: url(../img/team/);
 }
 
 .team-bg-2 {
-  background-image: url(../img/team/team-2.jpg);
+  background-image: url(../img/team/);
 }
 
 .team-bg-3 {
-  background-image: url(../img/team/team-3.jpg);
+  background-image: url(../img/team/);
 }
 
 .team-bg-4 {
